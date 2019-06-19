@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_58872_needit_mohd_ziauddin_jahnagir" label="hello2" max_length="40" name="x_58872_needit_hello2" type="collection">
+        <element label="nane" max_length="40" name="nane" type="string"/>
+    </element>
+</database>
